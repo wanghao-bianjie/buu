@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Do something</title>
+  
+  
+  <link href="https://github.com/wanghao-bianjie/buu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/wanghao-bianjie/buu.github.io/"/>
+  <updated>2023-05-28T10:21:46.514Z</updated>
+  <id>https://github.com/wanghao-bianjie/buu.github.io/</id>
+  
+  <author>
+    <name>Buu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>second</title>
+    <link href="https://github.com/wanghao-bianjie/buu.github.io/2023/05/28/second/"/>
+    <id>https://github.com/wanghao-bianjie/buu.github.io/2023/05/28/second/</id>
+    <published>2023-05-28T10:21:46.000Z</published>
+    <updated>2023-05-28T10:21:46.514Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>first</title>
+    <link href="https://github.com/wanghao-bianjie/buu.github.io/2023/05/28/first/"/>
+    <id>https://github.com/wanghao-bianjie/buu.github.io/2023/05/28/first/</id>
+    <published>2023-05-28T10:20:44.000Z</published>
+    <updated>2023-05-28T10:20:44.977Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
