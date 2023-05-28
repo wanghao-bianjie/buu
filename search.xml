@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>first</title>
-    <url>/wanghao-bianjie.github.io/2023/05/28/first/</url>
-    <content><![CDATA[<h1 id="这是我的第一个文章，一切都还只是个开始"><a href="#这是我的第一个文章，一切都还只是个开始" class="headerlink" title="这是我的第一个文章，一切都还只是个开始~"></a>这是我的第一个文章，一切都还只是个开始~</h1><p>简单找些事情做吧。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>second</title>
     <url>/wanghao-bianjie.github.io/2023/05/28/second/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2>]]></content>
+  </entry>
+  <entry>
+    <title>first</title>
+    <url>/wanghao-bianjie.github.io/2023/05/28/first/</url>
+    <content><![CDATA[<h2 id="一切都还只是个开始"><a href="#一切都还只是个开始" class="headerlink" title="一切都还只是个开始"></a>一切都还只是个开始</h2><p>就简单找些事情做吧，就像学习编程时的第一步</p>
+<p><code>fmt.Println(&quot;hello world&quot;)</code></p>
+<p>今天完成了：</p>
+<ol>
+<li>使用 github 创建个人 page 仓库</li>
+<li>使用 hexo 生成、部署静态文章</li>
+<li>换一个 hexo 主题</li>
+</ol>
+<p>希望周末愉快~</p>
+<p>希望下周顺利~</p>
+]]></content>
   </entry>
 </search>
